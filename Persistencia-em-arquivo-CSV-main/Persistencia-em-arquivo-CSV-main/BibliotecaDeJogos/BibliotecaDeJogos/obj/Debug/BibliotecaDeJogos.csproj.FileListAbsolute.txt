@@ -1,0 +1,11 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csproj.GenerateResource.Cache
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csprojResolveAssemblyReference.cache
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.MainForm.resources
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csproj.GenerateResource.Cache
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\bin\Debug\BibliotecaDeJogos.exe.config
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\bin\Debug\BibliotecaDeJogos.exe
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\bin\Debug\BibliotecaDeJogos.pdb
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.exe
+C:\Users\aluno_faculdade\Downloads\Persistencia-em-arquivo-CSV-main\Persistencia-em-arquivo-CSV-main\BibliotecaDeJogos\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.pdb
